@@ -1,0 +1,13 @@
+@import url("./header.css");
+
+.container {
+    /* padding-top: 50%; */
+}
+
+.slider {
+    padding-top: 47%;
+    background: url('./slider2.jpg') top center / cover no-repeat;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
